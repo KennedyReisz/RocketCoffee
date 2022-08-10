@@ -8,9 +8,11 @@
 
 <br />
 <br />
-<br />
 
+<div align=center>
+<a href="https://rocket-coffee-rose.vercel.app/">Preview</a>
 <img src="Preview/preview.png"/>
+</div>
 
 <br />
 <br />
