@@ -16,4 +16,6 @@
 <br />
 <br />
 
+<div align=center>
 <footer align=center>Project made in <a href="https://evento.rocketseat.com.br/maratona/explorer/">Maratona Explorer 3.0</a> 🧡</footer>
+</div>
