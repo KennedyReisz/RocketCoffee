@@ -1,0 +1,85 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;800;900&display=swap);
+
+/* Configuration */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffedd5;
+  font-family: "Roboto";
+}
+
+ul {
+  list-style: none;
+}
+
+/* The Style */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Header */
+.container .header-container {
+  padding: 32px 0px;
+}
+
+.container .header-container .header-title {
+  color: #2D2C2A;
+}
+
+.container .header-container .header-title span {
+  color: #995000;
+}
+
+.container .header-container .header-subtitle {
+  text-align: center;
+}
+
+/* Card Settings */
+.container ul li {
+  margin-bottom: 16px;
+  display: flex;
+  max-width: 300px;
+}
+
+/* Card 1 */
+.container .card1 .card1-title {
+  text-align: center;
+  background-color: #fed7aa;
+  padding: 8px 16px;
+  margin-bottom: 24px;
+  color: #2D2C2A;
+}
+
+.container .card1 .card1-product-description {
+  max-width: 300px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.container .card1 .card1-price {
+  color: #2D2C2A;
+}
+
+
+/* Card 2 */
+.container .card2 .card2-title {
+  text-align: center;
+  background-color: #fed7aa;
+  padding: 8px 16px;
+  margin-bottom: 24px;
+  color: #2D2C2A;
+}
+
+.container .card2 .card2-product-description {
+  max-width: 300px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.container .card2 .card2-price {
+  color: #2D2C2A;
+}
